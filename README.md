@@ -11,8 +11,10 @@
 - [Account Takeover at worki.ru](https://hackerone.com/reports/725707) by r0hack
 - [Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space](https://hackerone.com/reports/944392) by jayesh25
 - [Account takeover through password reset in cups.mail.ru](https://hackerone.com/reports/843160) by weev3kyaw
+- [Lack of rate limitation on careers site allows the attacker to brute force the verification code](https://hackerone.com/reports/1075827) by iambouali
 
 ### Miscellaneous
 - [Bypass Rate Limits on app.snapchat.com API Endpoint via X-Forwarded-For Header](https://hackerone.com/reports/727487) by sicarius
 - [Client IP Spoofing using "X-Forwarded-For: 127.0.0.1" on "studio-app.snapchat.com" exposing bucket details](https://hackerone.com/reports/382678) by damian89
+- [Error Page Content Spoofing or Text Injection](https://hackerone.com/reports/1245051) by princej_76
 
