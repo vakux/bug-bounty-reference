@@ -18,3 +18,7 @@
 - [Client IP Spoofing using "X-Forwarded-For: 127.0.0.1" on "studio-app.snapchat.com" exposing bucket details](https://hackerone.com/reports/382678) by damian89
 - [Error Page Content Spoofing or Text Injection](https://hackerone.com/reports/1245051) by princej_76
 
+
+### recon win 
+- [API on campus-vtc.com allows access to ~100 Uber users full names, email addresses and telephone numbers.](https://hackerone.com/reports/580268) by healdb
+
