@@ -12,6 +12,7 @@
 - [Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space](https://hackerone.com/reports/944392) by jayesh25
 - [Account takeover through password reset in cups.mail.ru](https://hackerone.com/reports/843160) by weev3kyaw
 - [Lack of rate limitation on careers site allows the attacker to brute force the verification code](https://hackerone.com/reports/1075827) by iambouali
+- [Full account takeover of any user through reset password](https://hackerone.com/reports/1175081) by saajanbhujel
 
 ### Miscellaneous
 - [Bypass Rate Limits on app.snapchat.com API Endpoint via X-Forwarded-For Header](https://hackerone.com/reports/727487) by sicarius
