@@ -10,3 +10,4 @@
 ### Authentication Bypass
 - [Account Takeover at worki.ru](https://hackerone.com/reports/725707) by r0hack
 - [Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space](https://hackerone.com/reports/944392) by jayesh25
+- [Account takeover through password reset in cups.mail.ru](https://hackerone.com/reports/843160) by weev3kyaw
