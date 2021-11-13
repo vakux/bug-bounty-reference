@@ -5,6 +5,7 @@
 
 ### Unrestricted File Upload
 - [Shell upload in http://widget.support.my.com/](https://hackerone.com/reports/317043) by danila
+- [Unrestricted file upload on [ambassador.mail.ru]](https://hackerone.com/reports/854032) by organdonor
 
 ### Authentication Bypass
 - [Account Takeover at worki.ru](https://hackerone.com/reports/725707) by r0hack
