@@ -13,7 +13,7 @@
 - [Account takeover through password reset in cups.mail.ru](https://hackerone.com/reports/843160) by weev3kyaw
 - [Lack of rate limitation on careers site allows the attacker to brute force the verification code](https://hackerone.com/reports/1075827) by iambouali
 - [Full account takeover of any user through reset password](https://hackerone.com/reports/1175081) by saajanbhujel
-- [https://hackerone.com/reports/281575](https://hackerone.com/reports/281575) by cablej 
+- [Password reset link injection allows redirect to malicious URL](https://hackerone.com/reports/281575) by cablej 
 ```
 1.
 X-Forwarded-Host: evil.com
