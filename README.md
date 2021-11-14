@@ -18,6 +18,9 @@
 - [Password reset link injection allows redirect to malicious URL](https://hackerone.com/reports/281575) by cablej 
 - [Password Reset - query param overrides postdata](https://hackerone.com/reports/96636) by reecer
 
+### Business Logic Flaw
+- [https://hackerone.com/reports/1295844](https://hackerone.com/reports/1295844) by drbrix
+
 ### Miscellaneous
 - [Bypass Rate Limits on app.snapchat.com API Endpoint via X-Forwarded-For Header](https://hackerone.com/reports/727487) by sicarius
 - [Client IP Spoofing using "X-Forwarded-For: 127.0.0.1" on "studio-app.snapchat.com" exposing bucket details](https://hackerone.com/reports/382678) by damian89
