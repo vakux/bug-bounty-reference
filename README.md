@@ -20,6 +20,10 @@
 
 ### Business Logic Flaw
 - [Modify in-flight data to payment provider Smart2Pay](https://hackerone.com/reports/1295844) by drbrix
+```
+Amount=2000&CustomerEmail=brixamount100abc%40███████&Hash=███
+Amount2=000&CustomerEmail=brix&amount=100&ab=c%40██████████&Hash=█████████
+```
 
 ### Miscellaneous
 - [Bypass Rate Limits on app.snapchat.com API Endpoint via X-Forwarded-For Header](https://hackerone.com/reports/727487) by sicarius
