@@ -19,7 +19,7 @@
 - [Password Reset - query param overrides postdata](https://hackerone.com/reports/96636) by reecer
 
 ### Business Logic Flaw
-- [https://hackerone.com/reports/1295844](https://hackerone.com/reports/1295844) by drbrix
+- [Modify in-flight data to payment provider Smart2Pay](https://hackerone.com/reports/1295844) by drbrix
 
 ### Miscellaneous
 - [Bypass Rate Limits on app.snapchat.com API Endpoint via X-Forwarded-For Header](https://hackerone.com/reports/727487) by sicarius
