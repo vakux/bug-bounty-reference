@@ -9,6 +9,7 @@
 
 ### Authentication Bypass
 - [Improper Authentication - any user can login as other user with otp/logout & otp/login](https://hackerone.com/reports/921780) by korniltsev
+- [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) by mongo
 - [Account Takeover at worki.ru](https://hackerone.com/reports/725707) by r0hack
 - [Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space](https://hackerone.com/reports/944392) by jayesh25
 - [Account takeover through password reset in cups.mail.ru](https://hackerone.com/reports/843160) by weev3kyaw
