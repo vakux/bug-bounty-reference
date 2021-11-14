@@ -14,6 +14,7 @@
 - [Lack of rate limitation on careers site allows the attacker to brute force the verification code](https://hackerone.com/reports/1075827) by iambouali
 - [Full account takeover of any user through reset password](https://hackerone.com/reports/1175081) by saajanbhujel
 - [Password reset link injection allows redirect to malicious URL](https://hackerone.com/reports/281575) by cablej 
+- [Password Reset - query param overrides postdata](https://hackerone.com/reports/96636) by reecer
 
 ### Miscellaneous
 - [Bypass Rate Limits on app.snapchat.com API Endpoint via X-Forwarded-For Header](https://hackerone.com/reports/727487) by sicarius
