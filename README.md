@@ -15,11 +15,10 @@
 - [Full account takeover of any user through reset password](https://hackerone.com/reports/1175081) by saajanbhujel
 - [Password reset link injection allows redirect to malicious URL](https://hackerone.com/reports/281575) by cablej 
 ```
-1.
 X-Forwarded-Host: evil.com
 Referrer: https://evil.com
-2.localhost.attacker.com or localhostattacker.com
-3. Host: redacted.com?anythin<b>imran</b> or Host: redacted.com?"><a href='evil.com
+localhost.attacker.com or localhostattacker.com
+Host: redacted.com?anythin<b>imran</b> or Host: redacted.com?"><a href='evil.com
 ```
 
 ### Miscellaneous
