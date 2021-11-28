@@ -1,3 +1,7 @@
+https://bugcrowd.com/sorare
+https://bugcrowd.com/kiteworks
+
+
 # Bug Bounty Reference
 
 ### Direct Object Reference (IDOR)
