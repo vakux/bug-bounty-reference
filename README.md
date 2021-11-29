@@ -4,6 +4,10 @@ https://bugcrowd.com/kiteworks
 
 # Bug Bounty Reference
 
+### sqli
+-[My Bug Bounty Journey and My First Critical Bug — Time Based Blind SQL Injection](https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41)
+
+
 ### Direct Object Reference (IDOR)
 - [IDOR for X-Pid header allowed user with observer role to elevate privileges for SQS service of MCS (sqs.mcs.mail.ru) by using role from the different project.](https://hackerone.com/reports/1177451) by mrd0x1
 
