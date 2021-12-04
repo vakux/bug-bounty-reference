@@ -3,6 +3,7 @@
 https://bugcrowd.com/sorare
 https://bugcrowd.com/kiteworks
 https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
+https://hackerone.com/reports/1356845
 ```
 
 # Bug Bounty Reference
