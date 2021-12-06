@@ -17,6 +17,8 @@ https://hackerone.com/cs_money/hacktivity?type=team
 - [My Bug Bounty Journey and My First Critical Bug — Time Based Blind SQL Injection](https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41)
 
 ### SSRF 
+- [入门](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
+- [入门](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
 - [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) by Craig Arendt
 - [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) by 0xacb
 
