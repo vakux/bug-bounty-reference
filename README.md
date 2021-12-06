@@ -4,6 +4,11 @@ https://bugcrowd.com/sorare
 https://bugcrowd.com/kiteworks
 https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
 https://hackerone.com/reports/1356845
+
+一个沙雕
+https://hackerone.com/jaka_tingkir?type=user
+有很多dos的报告
+https://hackerone.com/cs_money/hacktivity?type=team
 ```
 
 # Bug Bounty Reference
