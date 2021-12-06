@@ -4,6 +4,7 @@ https://hackerone.com/reports/1356845
 https://bugcrowd.com/sorare
 https://bugcrowd.com/kiteworks
 https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
+https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty
 https://hackerone.com/reports/1356845
 
 一个沙雕
