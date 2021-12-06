@@ -20,7 +20,7 @@ https://hackerone.com/cs_money/hacktivity?type=team
 - [入门](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
 - [入门](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
 - [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129)
-- [Vimeo SSRF with code execution potential.] (https://infosecwriteups.com/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
+- [Vimeo SSRF with code execution potential.](https://infosecwriteups.com/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
 - [Chain of hacks leading to Database Compromise!](https://logicbomb.medium.com/chain-of-hacks-leading-to-database-compromise-b2bc2b883915)
 - [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292)
 - [$1.000 SSRF in Slack](https://elbs.medium.com/1-000-ssrf-in-slack-7737935d3884) by Elber Andre
