@@ -19,12 +19,18 @@ https://hackerone.com/cs_money/hacktivity?type=team
 ### SSRF 
 - [入门](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
 - [入门](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
+- [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129)
+- [Vimeo SSRF with code execution potential.] (https://infosecwriteups.com/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
+- [Chain of hacks leading to Database Compromise!](https://logicbomb.medium.com/chain-of-hacks-leading-to-database-compromise-b2bc2b883915)
 - [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292)
 - [$1.000 SSRF in Slack](https://elbs.medium.com/1-000-ssrf-in-slack-7737935d3884) by Elber Andre
 - [SSRF’s up! Real World Server-Side Request Forgery](https://www.shorebreaksecurity.com/blog/ssrfs-up-real-world-server-side-request-forgery-ssrf/)
 - [Exploiting SSRF in AWS Elastic Beanstalk](https://notsosecure.com/exploiting-ssrf-aws-elastic-beanstalk) by notsosecure
 - [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) by Craig Arendt
 - [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) by 0xacb
+- [Escalating SSRF to RCE](https://generaleg0x01.com/2019/03/10/escalating-ssrf-to-rce/)
+- [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799)
+- 
 
 ### Direct Object Reference (IDOR)
 - [IDOR for X-Pid header allowed user with observer role to elevate privileges for SQS service of MCS (sqs.mcs.mail.ru) by using role from the different project.](https://hackerone.com/reports/1177451) by mrd0x1
