@@ -19,6 +19,9 @@ https://hackerone.com/cs_money/hacktivity?type=team
 ### SSRF 
 - [入门](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
 - [入门](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
+- [$1.000 SSRF in Slack](https://elbs.medium.com/1-000-ssrf-in-slack-7737935d3884) by Elber Andre
+- [SSRF’s up! Real World Server-Side Request Forgery](https://www.shorebreaksecurity.com/blog/ssrfs-up-real-world-server-side-request-forgery-ssrf/)
+- [Exploiting SSRF in AWS Elastic Beanstalk](https://notsosecure.com/exploiting-ssrf-aws-elastic-beanstalk) by notsosecure
 - [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) by Craig Arendt
 - [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) by 0xacb
 
