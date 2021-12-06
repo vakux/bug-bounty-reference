@@ -1,5 +1,6 @@
 
 ```
+https://hackerone.com/reports/1356845
 https://bugcrowd.com/sorare
 https://bugcrowd.com/kiteworks
 https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
@@ -17,10 +18,16 @@ https://hackerone.com/cs_money/hacktivity?type=team
 - [My Bug Bounty Journey and My First Critical Bug — Time Based Blind SQL Injection](https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41)
 
 ### SSRF 
+- [cloud_metadata.txt](https://gist.github.com/BuffaloWill/fa96693af67e3a3dd3fb)
+- [Cloud Metadata Dictionary useful for SSRF Testing](https://gist.github.com/jhaddix/78cece26c91c6263653f31ba453e273b)
+- [视频](https://www.youtube.com/watch?v=UyemBjyQ4qA)
+- [rce-in-cloud-dm.html 有视频](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html)
 - [入门](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
 - [入门](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
 - [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129)
 - [Vimeo SSRF with code execution potential.](https://infosecwriteups.com/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
+- [Exploiting SSRF like a Boss — Escalation of an SSRF to Local File Read!](https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326)
+- [From SSRF To RCE in PDFReacter](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)
 - [Chain of hacks leading to Database Compromise!](https://logicbomb.medium.com/chain-of-hacks-leading-to-database-compromise-b2bc2b883915)
 - [Bypass of the SSRF protection in Event Subscriptions parameter.](https://hackerone.com/reports/386292)
 - [$1.000 SSRF in Slack](https://elbs.medium.com/1-000-ssrf-in-slack-7737935d3884) by Elber Andre
@@ -30,7 +37,10 @@ https://hackerone.com/cs_money/hacktivity?type=team
 - [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) by 0xacb
 - [Escalating SSRF to RCE](https://generaleg0x01.com/2019/03/10/escalating-ssrf-to-rce/)
 - [Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799)
-- 
+- [From SSRF to Port Scanner](https://cobalt.io/blog/from-ssrf-to-port-scanner)
+- [SSRF vulnerability via FFmpeg HLS processing](https://krevetk0.medium.com/ssrf-vulnerability-via-ffmpeg-hls-processing-f3823c16f3c7)
+- [Blind SSRF/XSPA on dashboard.lob.com + blind code injection](https://hackerone.com/reports/517461)
+- [Old but GOLD Dot Dot Slash to Get the Flag — Uber Microservice](https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/)
 
 ### Direct Object Reference (IDOR)
 - [IDOR for X-Pid header allowed user with observer role to elevate privileges for SQS service of MCS (sqs.mcs.mail.ru) by using role from the different project.](https://hackerone.com/reports/1177451) by mrd0x1
