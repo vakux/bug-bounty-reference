@@ -19,7 +19,7 @@ https://hackerone.com/cs_money/hacktivity?type=team
 - [My Bug Bounty Journey and My First Critical Bug — Time Based Blind SQL Injection](https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41)
 
 ### 反射XSS
-- [reflected xss in e.mail.ru] (https://hackerone.com/reports/1379297) by burp 插件技巧
+- [reflected xss in e.mail.ru](https://hackerone.com/reports/1379297) by burp 插件技巧
 
 ### SSRF 
 - [cloud_metadata.txt](https://gist.github.com/BuffaloWill/fa96693af67e3a3dd3fb)
