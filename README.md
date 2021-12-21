@@ -1,3 +1,17 @@
+```
+https://bugcrowd.com/gopro2
+https://bugcrowd.com/kiteworks
+https://bugcrowd.com/hotdoc
+https://bugcrowd.com/betterhelp
+https://bugcrowd.com/reverb
+https://bugcrowd.com/geotab
+https://bugcrowd.com/dream11
+https://bugcrowd.com/sorare
+https://bugcrowd.com/barracudanetworks
+```
+
+
+
 
 ```
 https://hackerone.com/reports/1356845
