@@ -1,6 +1,9 @@
 ```
 https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/
 https://www.hackingarticles.in/ctf-challenges-walkthrough/
+https://medium.com/cyberverse/got-bounty-with-account-takeover-ato-unicode-case-mapping-collision-d23a7785e1be
+https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/
+https://hector0x.medium.com/from-url-dumps-digging-to-idor-bac-massive-phishing-in-udemy-6fa7f94ef256
 https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/
 https://snapsec.co/blog/2021/09/25/Attacking-Access-Control-Models-In-Modern-Web-Applications.html
 https://blog.mert.ninja/idor/
