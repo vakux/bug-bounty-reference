@@ -1,5 +1,9 @@
 ```
 http://www.firstsight.me/2020/11/optimizing-hunting-results-in-vdp-for-use-in-bug-bounty-programs-from-sensitive-information-disclosure-to-accessing-hidden-apis-which-can-be-used-to-retrieve-customer-data/
+https://hackerone.com/reports/921780
+https://hackerone.com/reports/1087382
+https://hackerone.com/reports/1257428
+https://hackerone.com/reports/1342088
 ```
 
 ```
