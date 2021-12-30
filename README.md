@@ -6,16 +6,14 @@ https://hackerone.com/reports/1257428
 https://hackerone.com/reports/1342088
 ```
 
-```
-
-```
-
 Dork: ssl.cert.subject.CN:"*.unilever.com"+200
+
+```
 https://wearetradecraft.com/advisories/
 https://gosecure.github.io/xxe-workshop/#8
 https://gh0st.cn/archives/2020-01-08/2
 https://labs.detectify.com/2021/09/30/10-types-web-vulnerabilities-often-missed/?utm_content=181672862&utm_medium=social&utm_source=twitter&hss_channel=tw-404136883
-
+```
 
 ```
 https://www.youtube.com/watch?v=zTkv_9ChVPY
