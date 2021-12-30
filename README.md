@@ -146,4 +146,11 @@ SQL INJECT
 %22XOR(if(now()%3dsysdate(),sleep(30),0))OR%22
 ```
 
+安卓抓包
+```
+https://secabit.medium.com/how-to-configure-burp-proxy-with-an-android-emulator-31b483237053
+https://www.nevermoe.com/2021/08/20/%E5%A6%82%E4%BD%95%E5%B0%86avd-android-emulator%E7%9A%84%E9%80%9A%E4%BF%A1%E8%BD%AC%E5%8F%91%E5%88%B0burp%E4%B8%8A/
+https://docs.google.com/document/d/1EIMxZ2_FD47aEYeG2JkOiRnIe8hBY_k0cuYgcjJeUV8/edit
+https://securitychops.com/2019/08/31/dev/random/one-liner-to-install-burp-cacert-into-android.html
+```
 
