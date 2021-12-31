@@ -69,6 +69,7 @@ https://www.youtube.com/watch?v=zTkv_9ChVPY
 https://bugcrowd.com/rootbakar
 https://blogs.opera.com/security/2021/09/bug-bounty-guest-post-local-file-read-via-stored-xss-in-the-opera-browser/
 https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414
+https://bugcrowd.com/R29k
 https://systemweakness.com/simple-2-fa-bugs-and-logic-flaws-that-you-can-look-for-as-a-beginner-ca333933f259
 ```
 
