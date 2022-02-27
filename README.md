@@ -208,3 +208,15 @@ https://docs.google.com/document/d/1EIMxZ2_FD47aEYeG2JkOiRnIe8hBY_k0cuYgcjJeUV8/
 https://securitychops.com/2019/08/31/dev/random/one-liner-to-install-burp-cacert-into-android.html
 ```
 
+graphql
+```
+https://blog.doyensec.com/2021/05/20/graphql-csrf.html
+https://www.blackhatethicalhacking.com/tools/awesome-bug-bounty-tools/
+https://github.com/nikitastupin/clairvoyance
+https://www.youtube.com/watch?v=nPB8o0cSnvM
+https://nikitastupin.com/
+```
+
+
+
+
