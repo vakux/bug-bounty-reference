@@ -1,4 +1,6 @@
 ```
+https://medium.com/@Sm9l/the-most-underrated-tool-in-bug-bounty-and-the-filthiest-one-liner-possible-cab14ef7faeb
+
 api 资源
 https://github.com/cyprosecurity/API-SecurityEmpire
 
