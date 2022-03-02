@@ -1,4 +1,7 @@
 ```
+api 资源
+https://github.com/cyprosecurity/API-SecurityEmpire
+
 https://bugcrowd.com/programs/teasers/spring-snow-7841
 https://bugcrowd.com/programs/teasers/auGYMAudW3xRzkUm5mhBA9nh
 
